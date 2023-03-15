@@ -36,5 +36,5 @@ var options = {
 request(options, function (error, response, body) {
     if (error) throw new Error(error);
 
-    console.log("호출성공", body);
+    console.log("호출성공1", body);
 });
