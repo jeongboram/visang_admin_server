@@ -10,7 +10,7 @@ let corsOptions = {
 app.use(cors(corsOptions));
 
 const token =
-    "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOm51bGwsImlzcyI6IlVCYkNTbFJ1UnlHeUx2VGh5VlFtcVEiLCJleHAiOjE2NzkzMDI1NDMsImlhdCI6MTY3ODY5Nzc0NH0.OPo9BMIngfy3QqzVlp1I_lHy79OpA2Nwc8pHzIxjl-M";
+    "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOm51bGwsImlzcyI6IlVCYkNTbFJ1UnlHeUx2VGh5VlFtcVEiLCJleHAiOjE3MDM4NjIwMDAsImlhdCI6MTY3OTM2MjQ5M30.vVvyzM041FpqkMahMcyibpv9CxcErdwfZT4HwrC-xf0";
 
 const port = 4000;
 const baseUrl = "https://api.zoom.us/v2";
